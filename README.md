@@ -3,17 +3,17 @@
 <h3 align="center">Applied AI/ML Engineer in the making | Agentic AI & Data Science</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vrushank%20Tipnis&fontSize=42&fontColor=ff79c6&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%2FML%20Engineer%20%7C%20Data%20Science&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vrushank%20Tipnis&fontSize=42&fontColor=4ea8ff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%2FML%20Engineer%20%7C%20Data%20Science&descAlignY=55&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=CS+Sophomore+%40+BITS+Pilani+Dubai+%F0%9F%8E%93;Agentic+AI+%26+Applied+ML+%F0%9F%A4%96;3x+Hackathon+Winner+%F0%9F%8F%86;Data+to+Deployed+Dashboard+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4ea8ff&center=true&vCenter=true&width=500&lines=CS+Sophomore+%40+BITS+Pilani+Dubai+%F0%9F%8E%93;Agentic+AI+%26+Applied+ML+%F0%9F%A4%96;3x+Hackathon+Winner+%F0%9F%8F%86;Data+to+Deployed+Dashboard+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shanks07-404&label=Profile%20Views&color=ff79c6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Shanks07-404?label=Followers&style=flat&color=ff79c6" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/Shanks07-404?label=Stars&style=flat&color=ff79c6" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Shanks07-404&label=Profile%20Views&color=4ea8ff&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Shanks07-404?label=Followers&style=flat&color=4ea8ff" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Shanks07-404?label=Stars&style=flat&color=4ea8ff" alt="stars"/>
 </p>
 
 ---
@@ -73,12 +73,12 @@ Built two systems in parallel: an **enterprise SSO login portal** (OIDC, OAuth 2
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanks07-404&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanks07-404&theme=synthwave&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanks07-404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanks07-404&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanks07-404&layout=compact&theme=synthwave&hide_border=true" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanks07-404&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
@@ -86,7 +86,7 @@ Built two systems in parallel: an **enterprise SSO login portal** (OIDC, OAuth 2
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanks07-404&theme=synthwave&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanks07-404&theme=tokyonight&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
