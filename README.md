@@ -97,7 +97,6 @@ Built two systems in parallel: an **enterprise SSO login portal** (OIDC, OAuth 2
   <img src="https://raw.githubusercontent.com/Shanks07-404/Shanks07-404/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-> Generated automatically every day by the GitHub Action in `.github/workflows/snake.yml` — see setup notes below.
 
 ---
 
