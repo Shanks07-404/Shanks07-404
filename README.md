@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Vrushank Tipnis 👋</h1>
 
-<h3 align="center">AI/ML Engineer in the making | Agentic AI | Data Science | Machine Learning </h3>
+<h3 align="center">Applied AI/ML Engineer in the making | Agentic AI | Data Science | Machine Learning</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vrushank%20Tipnis&fontSize=42&fontColor=4ea8ff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%2FML%20Engineer%20%7C%20Data%20Science&descAlignY=55&descAlign=50" width="100%"/>
@@ -86,7 +86,7 @@ Built two systems in parallel: an **enterprise SSO login portal** (OIDC, OAuth 2
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanks07-404&theme=tokyonight&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanks07-404&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
