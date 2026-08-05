@@ -24,7 +24,6 @@
 - 🏆 **3× hackathon winner** — I like building things that work, not just demos
 - 🔬 Currently researching **Agentic AI for Adaptive Smart IoT** — replacing static MAPE-K loops with a memory-informed (episodic, semantic, procedural) agentic controller
 - 🧩 I combine Data Science and ML to design scalable pipelines, build predictive models, and ship them as usable applications and dashboards
-- 📫 Reach me at: **tipnisvrushank07@gmail.com**
 
 ---
 
