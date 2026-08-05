@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shanks07-404&label=Profile%20Views&color=4ea8ff&style=flat" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/Shanks07-404?label=Followers&style=flat&color=4ea8ff" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/Shanks07-404?label=Stars&style=flat&color=4ea8ff" alt="stars"/>
 </p>
 
 ---
