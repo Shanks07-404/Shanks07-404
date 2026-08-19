@@ -35,7 +35,7 @@ Engineered dynamic BI dashboards for executive reporting and architected a Rando
 **Data Science Intern**, Smartlife Foundation *(Sep 2025 – Feb 2026)*
 Designed a standardized alphanumeric encoding system to clean and normalize a 500+ record multi-vendor materials dataset, and redesigned chatbot flows using MCQ-based decision logic for structured behavioral analytics.
 
-**PS-I Engineering Intern**, TechnoCIT Software Solutions
+**AI Intern**, TechnoCIT Software Solutions
 Built two systems in parallel: an **enterprise SSO login portal** (OIDC, OAuth 2.0, Keycloak) with a silent token refresh solution, and an **AI Agent Builder platform** using LangChain.js + LangGraph.js for multi-agent orchestration over the A2A (Agent2Agent) protocol.
 
 ---
